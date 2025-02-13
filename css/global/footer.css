@@ -17,7 +17,7 @@
   margin-bottom: 2rem;
 }
 
-.footer-contato li:nth-child(even):after {
+.footer-contato li:nth-child(even)::after {
   content: "";
   display: block;
   max-width: 22.5rem;

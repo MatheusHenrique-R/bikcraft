@@ -24,7 +24,7 @@
   position: relative;
 }
 
-.header-menu a:after {
+.header-menu a::after {
   content: "";
   display: block;
   height: 0.125rem;
